@@ -5,23 +5,34 @@ body {
 
 .recipe-preview {
     background-color: hsl(0, 0%, 100%);
-    width: 400px;
-    height: 600px;
+    width: 800px;
+    height: 800px;
 }
 
 h1 {
     color: hsl(24, 5%, 18%);
+    font-weight: 700;
 }
 h2 {
     color: hsl(14, 45%, 36%);
+    font-weight: 600;
 }
 
 h3 {
     color: hsl(332, 51%, 32%);
+    font-family: Arial;
+}
+
+h4 {
+    color: hsl(30, 10%, 34%);
+    font-family: Arial;
+    font-weight: 400;
 }
 
 p {
     color: hsl(30, 10%, 34%);
+    font-family: Arial;
+    font-weight: 400;
 }
 
 .recipe-thumbnail {}
