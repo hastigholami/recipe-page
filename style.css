@@ -35,7 +35,9 @@ p {
     font-weight: 400;
 }
 
-.recipe-thumbnail {}
+img {
+    width: 700px;
+}
 
 .food-name {}
 
