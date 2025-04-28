@@ -1,6 +1,8 @@
 # Frontend Mentor - Recipe Page
 
-![Screenshot](./pre1.jpg)(./pre2.jpg)(./pre3.jpg)
+![Screenshot](./pre1.jpg)
+![Screenshot](./pre2.jpg)
+![Screenshot](./pre3.jpg)
 
 # Recipe Page
 
