@@ -19,13 +19,13 @@ body {
 
 h1 {
     color: hsl(24, 5%, 18%);
-    font-size: 40px;
+    font-size: 30px;
     padding: 0%;
     margin: 0%;
 }
 h2 {
     color: hsl(14, 45%, 36%);
-    font-size: 25px;
+    font-size: 20px;
 }
 
 h3 {
@@ -78,6 +78,7 @@ img {
 .instructions-container {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 .nutrition {
