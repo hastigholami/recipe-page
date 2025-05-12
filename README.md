@@ -1,12 +1,9 @@
-# Frontend Mentor - Recipe Page
+# Recipe Page
 
 ![Screenshot](./pre1.jpg)
 ![Screenshot](./pre2.jpg)
 ![Screenshot](./pre3.jpg)
 
-# Recipe Page
-
-A simple responsive QR Code card component built using **HTML** and **CSS**. This project is part of a challenge from [Frontend Mentor](https://www.frontendmentor.io).
 
 ## Overview
 
@@ -19,7 +16,6 @@ A simple responsive QR Code card component built using **HTML** and **CSS**. Thi
 
 - HTML
 - CSS 
-- Css Grid
 - Flex box
 
 ## My Process
@@ -27,17 +23,15 @@ A simple responsive QR Code card component built using **HTML** and **CSS**. Thi
 ### What I Learned
 
 In this project, I practiced:
-- Structuring a simple HTML page
+- Key Flexbox properties: 'flex-direction'
 - Applying responsive styling using CSS
 - Working with images and fonts
-- Using Git and GitHub for version control
 - Hosting projects live using GitHub Pages
 
 ### Continued Development
 
 Next, I want to:
 - Improve my CSS skills
-- Start learning JavaScript
 - Complete more Frontend Mentor challenges
 
 ## Author
@@ -49,3 +43,6 @@ Next, I want to:
 ## Acknowledgments
 
 Thanks to [Frontend Mentor](https://www.frontendmentor.io) for the amazing challenges!
+
+## Note 
+This project was originally completed in April 2025. This README was updated later for better clarity and documentation.
