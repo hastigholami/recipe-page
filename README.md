@@ -16,7 +16,6 @@
 
 - HTML
 - CSS 
-- Flex box
 
 ## My Process
 
